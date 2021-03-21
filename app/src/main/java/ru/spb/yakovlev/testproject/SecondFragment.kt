@@ -13,6 +13,7 @@ import androidx.navigation.fragment.findNavController
  */
 class SecondFragment : Fragment() {
 //some text
+    ///some test text
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
